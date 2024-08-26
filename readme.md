@@ -2,7 +2,7 @@
 
 This repository contains the source code and datasets for the paper 'Adversarial Examples against WiFi Fingerprint-based Localisation in the Physical World'.
 Our main work can be divided into three parts: normal localisation effects of CNNs in the WFL domain, attacks, and defences, and we have conducted experiments on the BHD and TUT datasets, for which the repository will provide the data and source code.
-The two dataset and their source code is located in the `/BHD` and `TUT` directory respectively.
+The two dataset and their source code is located in the `/BHD` and `/TUT` directory respectively.
 
 ## Arguments
 There are three mission types: normal, attack, and defense.
